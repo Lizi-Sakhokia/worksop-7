@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+header h1 a{
+    color: #000000;
+    font-size: 30px;
+}
+header ul{
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+header ul a{
+    padding: 5px 10px;
+    color: #000000;
+}
+header img{
+    margin-top: 10px;
+}
+.order{
+    width: 180px;
+    padding: 16px 32px;
+    margin-top: 6px;
+    margin-bottom: 100px;
+    background-color: #FDC72D;
+    border-radius: 62px;
+    text-align: center;
+}
+.container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.saerto{
+    margin-top: 200px;
+    margin-left: 82px;
+}
+.products{
+    width: 466px;
+    height: 306px;
+    font-size: 60px;
+}
+.foods{ 
+    width: 466px;
+    height: 306px;
+    font-size: 20px;
+    color: #777776;
+}
+/* .get{
+    width: 180px;
+    padding: 16px 32px;
+    background-color: #FDC72D;
+    border-radius: 62px;
+    text-align: center;
+} */
+.surati{
+    margin-top: 180px;
+}
+.find{
+    width: 462px;
+    height: 136px;
+    font-size: 40px;
+}
+.company{
+    width: 512px;
+    height: 106px;
+    color: #777776;
+    font-size: 20px;
+}
+.safety{
+    width: 332px;
+    height: 126px;
+    font-size: 40px;
+}
+.when{
+    width: 502px;
+    height: 120px;
+    color: #777776;
+    font-size: 20px;
+}
